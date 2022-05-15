@@ -1,0 +1,230 @@
+pgn_schgames_01 | [pname_max[0]]... | [pname_max[0]]...
+pgn_schgames_01 | Да, что такое? | Yes, what is it?
+pgn_schgames_01 | Как тебе сказать… Я хочу чего-то новенького, новых ощущений, что-то экстремальное и захватывающее… Не знаю даже как правильно описать. | How can I tell you... I want something new, new, something extreme and exciting... I don't even know how to describe it correctly.
+pgn_schgames_01 | Намекаешь, что уже пора лишиться девственности? Тебе понравится, как раз новые ощущения. | Are you saying it's time to lose your virginity? You're gonna love it, just the way it feels.
+pgn_schgames_01 | Нет, я не про это… И нет, [pname_max[0]], пока нет, моя киска тебе не достанется. | No, I'm not talking about that... And no, [pname_max[0]], not yet, you won't get my pussy.
+pgn_schgames_01 | Тогда что? Я не понимаю тебя. | Then what? I don't understand you.
+pgn_schgames_01 | Допустим заняться сексом в публичном месте, где нас могут заметить... Ну… ты подумай. | Let's say having sex in a public place where we can be seen... Well... think about it.
+pgn_schgames_01 | Хорошо, я понял. Постараюсь. | Okay, I get it. I'll try.
+pgn_schgames_02 | {i}Школа... Моя школа не была такой большой, но нам хватало, бегали по этажам и коридорам, девчонкам юбки задирали...\nХватит воспоминаний, напишу [pname_liza[2]].{/i} | {i}School... My school wasn't so big, but we had enough, running around the floors and corridors, girls were ripped up with skirts...Хватит memories, I'll write [pname_liza[2]].{/i}
+pgn_schgames_02 | {i}Блин. Её телефон недоступен. Попробую найти её класс.{/i} | {i}Shit. Her phone's not available. I'll try to find her class.{/i}
+pgn_schgames_02 | Молодой человек, куда мы направляемся? | Young man, where are we going?
+pgn_schgames_02 | О... Здравствуйте. Здесь учится моя сестра и мне нужно ей кое-что сообщить. | Oh... Hello. My sister's here to study and I have something to tell her.
+pgn_schgames_02 | Почему бы вам не отправить ей СМС или позвонить? | Why don't you text her or call her?
+pgn_schgames_02 | Дело в том, что её телефон недоступен, видимо разряжен, поэтому не могу до неё дозвониться. | The fact that her phone is unavailable, apparently discharged, so I can't reach her.
+pgn_schgames_02 | Простите, но я не могу позволить вам разгуливать по школе без разрешения учителя или директора. | I'm sorry, but I can't let you walk around the school without the permission of the teacher or principal.
+pgn_schgames_02 | Тогда извините, я пойду.\n {i}Блин, нужно придумать способ, как получить это разрешение.{/i} | Then I'm sorry, I'll be going. \n{i}Shit, we need to figure out a way to get this permission.{/i}
+pgn_schgames_03 | ... | ...
+pgn_schgames_03 | {i}Всё так же, ничего... совсем...{/i} | {i}Same thing, nothing... completely... {/i}
+pgn_schgames_03 | ... | ...
+pgn_schgames_03 | {i}Всё так же, ничего... совсем...{/i} | {i}Same thing, nothing... completely... {/i}
+pgn_schgames_03 | {i}Так, стоп! Мама направляется к столу. Думал ей по почте пришлют, хотя ноут только у меня и у...{/i} | {i} Okay, stop! Mom's on her way to the table. Thought they'd mail it to her, even though it's just me and...{/i}
+pgn_schgames_03 | {i}Отлично, теперь знаю, где лежит мамин телефон и... теперь есть время. Но лучше мне для подстраховки ещё раз проверить, всегда ли в 17:00 приходит сообщение.{/i} | {i} Great, now I know where Mom's phone is and... now there's time. But I'd better check again to make sure I always get a message at 17:00.{/i}
+pgn_schgames_03 | ... | ...
+pgn_schgames_03 | {i}Всё так же, ничего... совсем...{/i} | {i}Same thing, nothing... completely... {/i}
+pgn_schgames_03 | {i}СМС снова пришло в 17:00.{/i} | {i}SMS came back at 17:00.{/i}
+pgn_schgames_03 | {i}Тогда сегодня последний раз пишем домашку с ошибками, а завтра в это же время Маму нужно будет чем-то отвлечь.{/i} | {i}Then today is the last time we're writing our homework with mistakes, and tomorrow at the same time Mom will need something to distract her.{/i}
+pgn_schgames_03 | {i}Тогда сегодня последний раз пишем домашку с ошибками, а в понедельник в это же время Маму нужно будет чем-то отвлечь.{/i} | {i}Then today is the last time we're writing our homework with mistakes, and on Monday at the same time Mom will need something to distract her.{/i}
+pgn_schgames_04 | Ты же помнишь, о чём просила меня недавно? | You remember what you asked me to do recently, don't you?
+pgn_schgames_04 | Да. А при чём тут моя домашняя работа? | Yeah. What's my homework got to do with it?
+pgn_schgames_04 | Так надо, так что сделай как можно больше ошибок в своем задании. | That's the way it should be, so make as many mistakes as you can in your task.
+pgn_schgames_04 | [pname_max[0]], нет! Не знаю, что ты там придумал, но я не хочу, чтобы Мама шлепала меня по попе. | [pname_max[0]], no! I don't know what you're up to, but I don't want Mom slapping my ass.
+pgn_schgames_04 | Если не сделаешь, я сам тебя сильно отшлепаю. | If you don't, I'm gonna slap you hard.
+pgn_schgames_04 | Ладно, ладно, хорошо. Сделаю, как ты скажешь. | Okay, okay, okay, okay. I'll do as you say.
+pgn_schgames_04 | Вот и умничка. | There's the good girl.
+pgn_schgames_05 | [pname_liza[0]], тебе снова нужно сделать ошибки. | [pname_liza[0]], you need to make mistakes again.
+pgn_schgames_05 | Сколько ещё это будет продолжаться? Мама больно бьёт, я не хочу больше. | How long will this last? Mom's hurting, I don't want any more.
+pgn_schgames_05 | [pname_liza[0]]! | [pname_liza[0]]!
+pgn_schgames_05 | Нет! | No!
+pgn_schgames_05 | Аргх… Давай я тебе сделаю куни, а ты ошибки в задании. Так пойдёт? | Argh... Let me make you a kuni, and you make mistakes in the mission. Will that do?
+pgn_schgames_05 | В попу… | In the ass...
+pgn_schgames_05 | Что в попу? | What's in the ass?
+pgn_schgames_05 | Я сделаю так, как ты сказал, а в замен трахнешь меня в попу. | I'll do as you say, and in return you'll fuck me in the ass.
+pgn_schgames_05 | Хорошо. Договорились. | Okay. It's a deal.
+pgn_schgames_06a | {i}Так, чтобы такое включить, эротику или жесткое порно. Но так как мне нужно отвлечь Маму, то...{/i} | {i}So as to include eroticism or hardcore porn. But since I need to distract Mom, then...{/i}
+pgn_schgames_06a | {i}Поставлю это и звук погромче.{/i} | {i}I'm gonna turn that up and make a louder sound.{/i}
+pgn_schgames_06a | {i}...{/i} | {i}...{/i}
+pgn_schgames_06a | Что за шум? Доносится с гостиной. | What's the noise? It's coming from the living room.
+pgn_schgames_06a | {i}Она выходит и теперь мой выход.{/i} | {i}She's coming out and now I'm out.{/i}
+pgn_schgames_06a | {i}Где же он тут... А вот! Посмотрим.{/i} | {i}Where is he here... Oh, here we go! Let's see.{/i}
+pgn_schgames_06a | А вот и СМС... | Here comes the text...
+pgn_schgames_06a_next | {i}Отлично! Надо поскорее отсюда убираться и вечером сообщу [pname_liza[2]] хорошие новости.{/i} | {i} Great! We've got to get out of here soon, and I'm gonna give you [pname_liza[2]] good news in the evening.{/i}
+pgn_schgames_06b | Ох, сынок... Кажется, я могу кончить за несколько секунд, если ты будешь продолжать... | Oh, son... I think I can come in a few seconds if you keep going...
+pgn_schgames_06b | О, СМС пришло. Можешь посмотреть, что там? | Oh, I got a text. Can you see what's in there?
+pgn_schgames_06b | Да, конечно, сейчас. | Yes, of course, now.
+pgn_schgames_06b_next | {i}Отлично! Надо заканчивать и вечером сообщу [pname_liza[2]] хорошие новости.{/i} | {i} Great! I have to finish the message [pname_liza[2]] with good news tonight.{/i}
+pgn_schgames_06b_next | Что там было? | What was it?
+pgn_schgames_06b_next | Да так, спам из \ | Well, spam from \
+pgn_schgames_06b_next | [pname_max[0]], ты опять так возбуждён... Как твои руки? Мази и таблетки помогают? | [pname_max[0]], you're so excited again... How are your hands? Ointments and pills help?
+pgn_schgames_06b_next | Нет, всё ещё болят кисти рук... | No, it still hurts my hands...
+pgn_schgames_06b_next | Сочувствую тебе, сынок. Ладно, давай иди сюда, садись ко мне спиной. Помогу, раз тебе это доставляет такие боли. Даже не представляю как это неприятно... | I'm sorry, son. Okay, come here, sit down with your back to me. I'll help you if it hurts so much. I don't know how unpleasant this is...
+pgn_schgames_06b_next | Угу... | Mm-hmm...
+pgn_schgames_06b_next | Хоть бы никто не вошёл в комнату, пока мы тут с тобой. Даже не представляю как это всё объяснить... Поэтому, давай ускоримся. Ты готов? | I wish no one would come into the room while we're here. I don't know how to explain it all... So let's speed it up. Are you ready?
+pgn_schgames_06b_next | Конечно, мам! | Sure, Mom!
+pgn_schgames_06b_next | Так хорошо, [pname_max[0]]? Может быть, чуть ускориться? Ты ко мне так прижимаешься... [pname_max[0]], надеюсь ты думаешь не обо мне? Хотя, ты не сознаешься... ладно, думай что хочешь... | So good, [pname_max[0]]? Maybe we should speed it up a little bit. You're so close to me... [pname_max[0]], I hope you're not thinking about me. Although, you won't confess... Okay, think about what you want...
+pgn_schgames_06b_next | {i}Если бы я знал, что так можно, этот синдром у меня появился бы очень очень давно... Интересно, теперь мама всегда это будет делать? А может быть, будет и какое-то... развитие? Ох...{/i} | {i}If I'd known I could do that, I'd have had this syndrome a long time ago... I wonder if Mom's always gonna do it now? Or maybe there will be some... development? Oh... {/i}
+pgn_schgames_06b_next | [pname_max[0]], я просто удивляюсь откуда в тебе столько спермы! Всю меня испачкал. Но не переживай, мама всё уберёт. Надевай свои шорты и иди, а я наведу порядок... И никому ни слова! | [pname_max[0]], I'm just wondering why you have so much sperm in you! It's all dirty on me. But don't worry, Mom will clean it up. Put your shorts on and go, and I'll clean up... And not a word to anyone!
+pgn_schgames_06b_next | Спасибо, мам! | Thank you, Mom!
+pgn_schgames_07 | Странно, в этот раз Мама меня не наказывала, хотя я сделала всё, как ты просил. | It's weird, this time Mom didn't punish me, even though I did everything you asked me to do.
+pgn_schgames_07 | Да, всё идёт по плану. Учительница вызвала Маму для разговора… | Yeah, everything's going according to plan. The teacher called Mom to talk...
+pgn_schgames_07 | Какого черта! Мне же влетит, ты всё только испортил. | What the hell! I'm gonna get in trouble, you just ruined it.
+pgn_schgames_07 | Всё будет хорошо, вместо неё пойду я и уже всё схвачено. | It's gonna be okay, I'm gonna go instead and it's all taken care of.
+pgn_schgames_07 | А…. Да…. Скажи мне, что ты задумал. | Ah.... Yeah, um... Tell me what you're up to.
+pgn_schgames_07 | Нет, пока это всё ещё секрет. | Нет, пока это всё ещё секрет.
+pgn_schgames_07 | Ладно, тогда увидимся завтра в школе. | Okay, I'll see you at school tomorrow.
+pgn_schgames_07 | Ладно, тогда увидимся на следующей неделе в школе. | Okay, I'll see you next week at school.
+pgn_schgames_08 | Пройти могут только учащиеся или работники школы. | Only students or school staff can pass through.
+pgn_schgames_08 | Здесь учится моя сестра и сегодня меня вызвали в школу для разговора с учителем. | My sister goes to school here and today I was called to school to talk to my teacher.
+pgn_schgames_08 | Даже если так, меня ни кто не предупреждал, так что всё равно пропустить вас не могу. | Even so, I wasn't warned by anyone, so I can't miss you anyway.
+pgn_schgames_08 | {i}Блин, ладно, напишу [pname_liza[2]], может он хотя бы ей поверит.{/i} | {i}Shoot, okay, I'll write [pname_liza[2]], maybe he'll at least believe her. {/i}
+pgn_schgames_08_next | Сейчас, она придёт сюда. | Now, she's coming here.
+pgn_schgames_08_next | [pname_max[0]]! | [pname_max[0]]!
+pgn_schgames_08_next | А вот и она. | There she is.
+pgn_schgames_08_next | Здравствуйте, это мой старший брат. Не могли бы его пропустить. Его вызывали для разговора с учительницей. | Hello, this is my older brother. Couldn't have missed it. He was called in to talk to his teacher.
+pgn_schgames_08_next | Хорошо, проходите. Но вы как-то слишком молоды для взрослого. | Okay, come on in. But you're too young for an adult.
+pgn_schgames_08_next | Спасибо. У каждого по-своему идут биологические часы... | Thank you. Everyone has their own biological clock...
+pgn_schgames_08_next | Она вообще придёт? | Is she even coming?
+pgn_schgames_08_next | Да | Yes
+pgn_schgames_08_next | Простите! Навалилось много дел, совсем замоталась, чуть не забыла, что должна прийти. И так. Спасибо, что при… | Sorry! I had a lot of things to do, and I almost forgot I had to come. Okay, so this is it. Thank you for...
+pgn_schgames_08_next | [pname_max[7]]!? | [pname_max[7]]?
+pgn_schgames_08_next | Здравствуйте Ольга Алексеевна. А вы тут какими судьбами и в этом городе? | Hello, Olga Alekseevna. What are you doing here in this town, too?
+pgn_schgames_08_next | Эм… ну… а… А ты почему здесь и как ты? | Um... well... ah... why are you here and how are you?
+pgn_schgames_08_next | Мама сообщила вам, что не сможет прийти и вместо неё придёт её сын. Ну вот, я здесь. | Mom told you she couldn't come and her son would come instead. Okay, I'm here.
+pgn_schgames_08_next | Л-л-ладно. Не будем терять время. Думаю, ты в курсе, что твоя сестра идёт на золотую медаль, но если она и далее будет получать плохие оценки по моему предмету, то медали ей не видать. Чтобы как-то её снова вытянуть, ей потребуется ходить на дополнительные занятия и будет лучше, если будет присутствовать кто-нибудь из семьи. | L-l-Okay. Let's not waste any time. I think you know your sister's going for a gold medal, but if she keeps getting bad grades in my class, she won't get a medal. To pull her out again, she will need to go to extra classes and it will be better if someone from the family is present.
+pgn_schgames_08_next | У меня найдется свободное время и буду присутствовать на всех занятиях. | I'll have some free time and attend all the classes.
+pgn_schgames_08_next | Хорошо, тогда всё, так же по будням в 15:00. Буду ждать. | Okay, then it's all the same on weekdays at 15:00. I'll be waiting.
+pgn_schgames_08_next | Не переживайте, я прослежу, чтобы она посещала эти занятия. | Don't worry, I'll make sure she attends these classes.
+pgn_schgames_08_next | [pname_max[0]], а откуда тебя знает Ольга Алексеевна? | [pname_max[0]] and how does Olga Alekseevna know you?
+pgn_schgames_08_next | Помнишь, меня со школы выгнали, где мы раньше жили? | Remember when I got kicked out of school where we used to live?
+pgn_schgames_08_next | Немного припоминаю. | I remember a little bit.
+pgn_schgames_08_next | Так вот, меня выгнали из-за неё. Из-за якобы приставаний, хотя это она положила глаз на меня. Всё так обыграла, будто это я был виноват. Наверное её оттуда уволили или сама ушла. | Well, I got kicked out because of her. Because of the alleged harassment, although she's the one who had her eye on me. It's like it was my fault. She must have been fired from there or left.
+pgn_schgames_08_next | Ты смотри, чтобы меня не выгнали, а то уж точно поедешь служить в каких-то военных войсках за океаном. | Don't let me get kicked out, or you'll definitely go and serve in some military forces overseas.
+pgn_schgames_08_next | Так, так, полегче, всё будет нормально, обещаю. | Well, well, easy, it'll be all right, I promise.
+pgn_schgames_08_next | Ну, ну. | Well, well, well.
+pgn_schgames_09 | Я, на… | I'm on...
+pgn_schgames_09 | Можете проходить, меня предупредили. | You can go through, I've been warned.
+pgn_schgames_09 | {i}Отлично, теперь могу без проблем заходить в школу. Осталось сделать задуманное, начну со следующего учебного дня.{/i} | {i} Great, now I can easily go to school. I'll start the next day of school.{/i}
+pgn_schgames_09 | Здравствуйте, Ольга Алексеевна. | Hello, Olga Alekseevna.
+pgn_schgames_09 | Привет, [pname_max[0]]. | Hi, [pname_max[0]].
+pgn_schgames_09 | Где мне сесть? | Where do I sit?
+pgn_schgames_09 | Можешь сесть позади [pname_liza[1]]. И… пожалуйста, выключи телефон. | You can sit behind [pname_liza[1]]. And... please turn the phone off.
+pgn_schgames_09 | Хорошо. Поставлю на беззвучный режим. | Okay. I'll put it on silent mode.
+pgn_schgames_10 | БАМ!!! | BAM!!!
+pgn_schgames_10 | {i}Блин! Врезался во что-то мягкое...{/i} | {i}Shit! Hit something soft...{/i}
+pgn_schgames_10 | {i}О... Сиськи, большие, для школьницы...{/i} | {i}Oh... Tits, big ones, for a schoolgirl...{/i}
+pgn_schgames_10 | Слышь, ты, глаза вверх поднял! | Hey, you, you got your eyes up!
+pgn_schgames_10 | Ты не из нашей школы. Что здесь делаешь? | You're not from our school. What are you doing here?
+pgn_schgames_10 | С чего взяла? | What makes you think that?
+pgn_schgames_10 | Я бы не пропустила мимо себя такого красавчика. | I wouldn't let myself get past such a handsome guy.
+pgn_schgames_10 | Тут учится моя... | This is where my...
+pgn_schgames_10 | Мне без разницы кто. У меня сейчас нет времени на разговоры. В следующий раз увижу, так просто не отделаешься. | I don't care who. I don't have time to talk right now. Next time I see you, you won't get away with it.
+pgn_schgames_10 | {i}Хм... Давно разрешено ходить в такой школьной, сексуальной форме!? Ладно, хватит фантазировать, я здесь для другого дела.{/i} | {i}um... How long have you been allowed to wear this school uniform? Okay, stop fantasizing, I'm here for another case.{/i}
+pgn_schgames_10_next | [pname_max[0]], чего хотел? У меня идёт урок. | [pname_max[0]], what did you want? I'm in the middle of a lesson.
+pgn_schgames_10_next | Пойдём. | Let's go.
+pgn_schgames_10_next | Куда? | Where to?
+pgn_schgames_10_next | Всё поймешь. Пойдём, пойдем. | You'll understand. Let's go, let's go.
+pgn_schgames_10_next | Заходи... | Come in...
+pgn_schgames_10_next | Чего задумал? | What are you up to?
+pgn_schgames_10_next | Ты хотела острых ощущений и смены обстановки, ну так вот, давай займемся сексом прям в школьном туалете. | You wanted a thrill and a change of scenery, so let's have sex in the school toilet.
+pgn_schgames_10_next | Я не могу. | I can't.
+pgn_schgames_10_next | Постой, ты же этого хотела или я не прав? | Wait, that's what you wanted or am I wrong?
+pgn_schgames_10_next | Всё так, но мы не дома и у меня здесь нет возможности подготовить попу. Если только у тебя нет с собой презервативов. Или есть? | That's right, but we're not home and I don't have a chance to prepare my ass here. Unless you have condoms with you. Or is there?
+pgn_schgames_10_next | Блин... Нет…  | Shit... No...
+pgn_schgames_10_next | Но я могу сделать тебе минет, всё же ты старался и придумал такой план. Только… моя попка пострадала от маминых шлепков... \nИ пожалуйста, не кончай мне на лицо, не могу ведь со спермой на лице пойти в класс. | But I can give you a blowjob, yet you tried and came up with such a plan. It's just... my ass got hurt by my mom's flip-flops... \И please don't come on my face, I can't go to class with sperm on my face.
+pgn_schgames_10_next | Всё зависит о тебя, сможешь ли всё проглотить. А твоей маленькой пострадавшей попкой, займусь в следующий раз. | It all depends on you if you can swallow it. And your little hurt ass, I'll take care of it next time.
+pgn_schgames_10_next | О да... Охх... Молодец сестренка... Как же хорошо... | Oh, yeah... Ohhhh... Well done, sis... It's so good...
+pgn_schgames_10_next | [pname_liza[0]], будь умницей, глубже... | [pname_liza[0]], be a good girl, go deeper...
+pgn_schgames_10_next | О-о-о даааа... Ммм... Как глубоко... | Oh, oh, yeah... Mm-hmm. Um... How deeply...
+pgn_schgames_10_next | {i}От ощущений, что нас могут поймать за этим делом... Как же меня это возбуждает... Больше не могу...{/i} | {i} From the feeling that we might be caught in this case... I'm so excited about it... I can't take it anymore...{/i}
+pgn_schgames_10_next | Ааахх... Дааа... Аааа... | Aaahh... Yeah, um... Ahhhhhh...
+pgn_schgames_10_next | Открой ротик и покажи мне... | Open your mouth and show me...
+pgn_schgames_10_next | Отлично! А теперь проглоти... | Great! Now swallow...
+pgn_schgames_10_next | Умничка | Good girl.
+pgn_schgames_10_next | Ммм... горячее и вкусное. Спасибо [pname_max[0]]! Мне очень понравилось. Надеюсь в следующий раз не забудешь взять презервативы. | Mmm... hot and delicious. Thank you [pname_max[0]]! I really liked it. I hope you don't forget to get condoms next time.
+pgn_schgames_10_next | Может забудешь, что здесь произошло и не расскажешь об этом [pname_alice[2]]? | Why don't you forget what happened here and not tell me about it [pname_alice[2]]?
+pgn_schgames_10_next | Согласна. Но ни чего не обещаю, что может случиться дома. | I agree. But I can't promise you anything that could happen at home.
+pgn_schgames_10_next | Ну всё, беги на урок. | All right, run to class.
+pgn_schgames_10_next | Ты же придёшь сегодня на дополнительные? Мне осталось занятий [liza_school_addles]. | You're coming to the extra today, aren't you? I still have classes left [liza_school_addles].
+pgn_schgames_10_next | Конечно, сестрёнка. | Sure, sis.
+pgn_schgames_11 | [pname_max[0]], ты где?... Ой... | [pname_max[0]], where are you? Oh...
+pgn_schgames_11 | Ну зачем так грубо? | Why so rude?
+pgn_schgames_11 | Умничка, без трусиков... | Good girl, no panties...
+pgn_schgames_11 | С того раза, как обещала их не надевать, не надеваю. А раз будешь меня ещё и в школе радовать, то уж точно они мне не понадобятся. | From the time I promised not to wear them, I do not wear them. And since you're gonna make me happy at school, I'm sure I won't be needing them.
+pgn_schgames_11 | Презервативы у тебя? | Do you have the condoms?
+pgn_schgames_11 | Конечно. В СМС написал, что есть. Снимай юбку и встань раком на унитаз. | Sure. He texted me what he had. Take off your skirt and stand on the toilet with cancer.
+pgn_schgames_11 | Готова? | Ready?
+pgn_schgames_11 | Даааа... | Yeah...
+pgn_schgames_11 | Аххх... Мммм... Ааааххх... Да, вот так... Мммм... | Ahhhh... Mm-hmm. Aaaahhhhh... Yeah, like this... Mmm...
+pgn_schgames_11 | О дааа... Люблю твою попку, сестренка, в ней очень узко... Эта маленькая дырочка обхватывает весь мой член... | Oh, yeah... I love your ass, sis, it's very narrow... This little hole in my dick...
+pgn_schgames_11 | Как же я тебя люблю... | I love you so much...
+pgn_schgames_11 | [pname_max[0]], заткнись! Я не хочу, чтобы нас заметили, так что трахай меня... Ааххх, да, да... Аааххх... | [pname_max[0]], shut up! I don't want to be noticed, so fuck me... Ahhhh, yes, yes, yes... Aaahhhhh...
+pgn_schgames_11 | Поактивнее братик... Аххх... | More active brother... Ahhhhh...
+pgn_schgames_11 |  О да... Большой член братика в моей попке... Быстрее... Аааххх... |  Oh, yeah... Big cock in my ass... Faster... Aaahhhhh...
+pgn_schgames_11 | {i}Ну [pname_liza[0]], меня заткнула, а сама говорит, да стонет громко. Хорошо, что ни кого нет кроме нас в туалете.{/i} | {i}Well, [pname_liza[0]], I'm shut up, and she says, yes, moaning loudly. It's a good thing nobody's in the bathroom but us.{/i}
+pgn_schgames_11 | Аааххх... Аааххх... Ммм... | Aaahhhh... Aaahhhhh... Mmm...
+pgn_schgames_11 | [pname_liza[0]]... Я... так долго не продержусь... | [pname_liza[0]]... I... I'm not gonna last that long...
+pgn_schgames_11 | Тогда... ещё быстрее и глубже, старший братик... Глуу-глу-бже... | Then... faster and deeper, big brother... Deep, deep, deep, deeper...
+pgn_schgames_11 | Аааххх... [pname_max[0]]!!! Ааааххх... | Aaahhhh... [pname_max[0]]! Aaaahhhhh...
+pgn_schgames_11 | Больше... не могу... Аааргхх... | More... I can't... Aaarghhh...
+pgn_schgames_11 | Всё! Ухх... Жаль нельзя было кончить в попку. | Everything! Uhhh... I wish I could have ended up in the ass.
+pgn_schgames_11 | Можешь, но дома. А так, спасибо и за это. И не волнуйся, [pname_alice[2]] не скажу. | You can, but at home. Okay, thanks for that, too. And don't worry, [pname_alice[2]] won't say.
+pgn_schgames_11 | Ну всё, я пошла в класс. | All right, I'm going to class.
+pgn_schgames_11 | Ты же придёшь сегодня на дополнительные? Мне осталось занятий [liza_school_addles]. | You're coming to the extra today, aren't you? I still have classes left [liza_school_addles].
+pgn_schgames_11 | Конечно, сестрёнка. | Sure, sis.
+pgn_schgames_11 | Ещё увидимся. | See you later.
+a | Почему не в кабинке меня ждешь? | Why aren't you waiting in the stall?
+a | Проверял, нет ли никого здесь. | Checking to see if anybody's here.
+a | Аххх... | Ahhhh...
+a | Чего хочется моей маленькой и самой любимой сестренке? | What does my little and beloved sister want?
+a | Красотка, чего тебе хочется? | Pretty Woman, what do you want?
+a | Хочу в попу или твоей спермы в моём ротике, так что даже и не знаю. Решай сам. | I want to get in the ass or your sperm in my mouth, so I don't know. It's up to you.
+pgn_schgames_toiletsexliza_p1 | {i}Какая же она миленькая. Нежные и мягкие губки сестренки... большая потеря, не трахнуть этот ротик.{/i} | {i} How cute she is. Sis' soft, soft lips... a big loss, not to fuck that mouth.{/i}
+pgn_schgames_toiletsexliza_p1 | О да... Охх... Молодец сестренка... Как же хорошо... | Oh, yeah... Ohhhh... Well done, sis... It's so good...
+pgn_schgames_toiletsexliza_p1 | Если не хочешь долго задерживаться, то тебе лучше ускориться и взять поглубже... | If you don't want to stay long, you'd better speed up and take a deeper...
+pgn_schgames_toiletsexliza_p1 | О-о-о даааа... Ммм... Как глубоко... | Oh, oh, yeah... Mm-hmm. Um... How deeply...
+pgn_schgames_toiletsexliza_p1 | {i}Мама и Тётя мастерски сосут, но вот [pname_liza[0]] делает это нижнее... Охх....{/i} | {i}Mom and Aunt suck it masterfully, but [pname_liza[0]] does the bottom... Ohh.... {/i}
+pgn_schgames_toiletsexliza_p1 | [pname_liza[0]], я... сейчас... | [pname_liza[0]], I... now...
+pgn_schgames_toiletsexliza_p1 | Ааахх... Дааа... Аааа... | Aaahh... Yeah, um... Ahhhh...
+pgn_schgames_toiletsexliza_p1 | Открой ротик и покажи мне... | Open your mouth and show me...
+pgn_schgames_toiletsexliza_p1 | Вау, супер! Проглоти и слижи с губ... | Wow, super! Swallow it and suck it off your lips...
+pgn_schgames_toiletsexliza_p1 | Умничка. | Good girl.
+pgn_schgames_toiletsexliza_p1 | Ммм... горячее и вкусное. Спасибо [pname_max[0]]! Мне очень понравилось. | Mmm... hot and delicious. Thank you [pname_max[0]]! I really liked it.
+pgn_schgames_toiletsexliza_p1 | Точнее не хочешь продолжить? | You don't want to go on?
+pgn_schgames_toiletsexliza_p1 | Я и так задержалась, нужно побыстрее вернуться на урок. | I'm already late, we need to get back to class as soon as possible.
+pgn_schgames_toiletsexliza_p1 | Ну всё, беги на урок. | All right, run to class.
+pgn_schgames_toiletsexliza_p1 | Ты же придёшь сегодня на дополнительные? Мне осталось занятий [liza_school_addles]. | You're coming to the extra today, aren't you? I still have classes left [liza_school_addles].
+pgn_schgames_toiletsexliza_p1 | Конечно, сестрёнка. | Sure, sis.
+pgn_schgames_toiletsexliza_p2 | {i}Ни за что бы не подумал, что когда-нибудь займусь сексом в туалете.{/i} | {i}never thought I'd ever have sex in the bathroom.{/i}
+pgn_schgames_toiletsexliza_p2 | Снимай юбку и встань раком на унитаз. | Take off your skirt and stand on the toilet.
+pgn_schgames_toiletsexliza_p2 | Готова? | Ready?
+pgn_schgames_toiletsexliza_p2 | Даааа... Только осторожно, сразу и резко не надо. | Yeah... Just be careful, don't be so hard on me.
+pgn_schgames_toiletsexliza_p2 | Хорошо. | Okay.
+pgn_schgames_toiletsexliza_p2 | Аххх... Мммм... Ааааххх... Да, вот так... Мммм... | Ahhhh... Mm-hmm. Aaaahhhhh... Yeah, like this... Mmm...
+pgn_schgames_toiletsexliza_p2 | О дааа... Люблю твою попку, сестренка, в ней очень узко... Как же я тебя люблю... | Oh, yeah... I love your ass, sis, it's very narrow... I love you so much...
+pgn_schgames_toiletsexliza_p2 | Поактивнее братик... Аххх... | More active brother... Ahhhhh...
+pgn_schgames_toiletsexliza_p2 |  О да... Большой член братика в моей попке... Быстрее... Аааххх... |  Oh, yeah... Big cock in my ass... Faster... Aaahhhhh...
+pgn_schgames_toiletsexliza_p2 | Аааххх... Аааххх... Ммм... | Aaahhhh... Aaahhhhh... Mmm...
+pgn_schgames_toiletsexliza_p2 | [pname_liza[0]]... Я... так долго не продержусь... | [pname_liza[0]]... Я... I'm not gonna last that long...
+pgn_schgames_toiletsexliza_p2 | Тогда... ещё быстрее и глубже, старший братик... Глуу-глу-бже... | Then... faster and deeper, big brother... Deep, deep, deep, deeper...
+pgn_schgames_toiletsexliza_p2 | Аааххх... [pname_max[0]]!!! Ааааххх... | Aaahhhh... [pname_max[0]]! Aaaahhhhh...
+pgn_schgames_toiletsexliza_p2 | Больше... не могу... Аааргхх... | More... I can't... Aaarghhh...
+pgn_schgames_toiletsexliza_p2 | Всё! Ухх... | Everything! Uhh...
+pgn_schgames_toiletsexliza_p2 | Спасибо! Мне очень понравилось... Не буду ещё дольше задерживаться, мне пора. | Thank you! I really liked it... I'm not gonna stay any longer, I gotta go.
+pgn_schgames_toiletsexliza_p2 | Ты же придёшь сегодня на дополнительные? Мне осталось занятий [liza_school_addles]. | You're coming to the extra today, aren't you? I still have classes left [liza_school_addles].
+pgn_schgames_toiletsexliza_p2 | Конечно, сестрёнка. | Sure, sis.
+pgn_schgames_toiletsexliza_p2 | Ещё увидимся. | See you later.
+pgn_schgames_toiletsexliza_p2_grubo | Ай, [pname_max[0]], нет! Я же просила... | Oh, [pname_max[0]], no! I told you...
+pgn_schgames_toiletsexliza_p2_grubo | Всё расскажу [pname_alice[2]]... | I'll tell everything to [pname_alice[2]]...
+pgn_schgames_toiletsexliza_p2_grubo | {i}Ну и ладно пусть знает, зато отлично проведу время с этой маленькой попкой. Ооо... да...{/i} | {i}Well, let her know, but I'll have a great time with this little ass. Ohhhh... Yes... {/i}
+pgn_schgames_toiletsexliza_p2_grubo | Класс! Тугая и очень горячая дырочка... Дааа... Аааххх... | Cool! Tight and very hot hole... Yeah, um... Aaahhhhh...
+pgn_schgames_toiletsexliza_p2_grubo_01 | Глу-бо-ко... очень... Аа...Ааааа... | Deep-bo-co... very, uh... Ah... Ahhhhhh...
+pgn_schgames_toiletsexliza_p2_grubo_02 | Ааахх... Аааа... Больно... Аааххх... | Aaahh... Ahhhhhh... It hurts... Aaahhhhh...
+pgn_schgames_toiletsexliza_p2_grubo_03 | Мммм... Ааахх... Ааааххх... | Mmm... Aaahhh... Aaaahhhhh...
+pgn_schgames_toiletsexliza_p2_grubo_end | Больше... не могу... Аааргхх... | More... I can't... Aaarghhh...
+pgn_schgames_toiletsexliza_p2_grubo_end | За это, [pname_alice[0]], тебе по жопе надаёт... | For this, [pname_alice[0]] will kick your ass...
+pgn_schgames_toiletsexliza_p2_grubo_end | Беги на урок, а то всё пропустишь. | Run to class, or you'll miss it.
+pgn_schgames_toiletsexliza_p2_grubo_end | Дурак. | Fool.
+ | В попу
+In the ass.
+Войти грубо и глубоко
+Get in rough and deep.
